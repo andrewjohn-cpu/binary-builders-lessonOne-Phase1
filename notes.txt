@@ -1,0 +1,8 @@
+html and css
+tags, divs, opening/closing tags, 
+tags, attributes, github,
+github, 
+cloning - copying a repo from github to your device making it locally accessible(git clone "<repo_url>")
+and 
+forking - creating a copy of a repo and making it available on your github account, contribution.
+
