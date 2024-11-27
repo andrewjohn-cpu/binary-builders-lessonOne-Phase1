@@ -6,3 +6,26 @@ cloning - copying a repo from github to your device making it locally accessible
 and 
 forking - creating a copy of a repo and making it available on your github account, contribution.
 
+types of javascript
+client side javascript - what the users sees
+server side javascript - logical part of web app, node js
+asynchronous javascript - performing minimal events in the background while executing the main event.
+
+client side javascript - internal javascript file or external javascript file(.js)
+internal javascript - <script></script> tags or element
+external javscript - create separate javascript file.
+
+types of web application
+static - 
+dynamic - data changes dynamically.
+
+variables - container in which specific values are stored, reference,
+declare variable - var <varibale_name>, const <varibale_name>, let <varibale_name>, camel case,
+data type - string, boolean(true/false), number/integers, objects, arrays, Null, Undefined, Symbols, 
+string - text e.g "Victor", "Diana", "MOringa", "Nairobi", methods: .toUpperCase(), .toLowerCase(), .length, .charAt(), .trim(), 
+run javascript file on terminal - node "<file_name.js>"
+displaying results - console.log(<value>)
+comparison  in javascript - loose equality(==) -type conversion(implicit - autonomously and explicit - manually ), strict equality(===)
+conditions - if statements, if (condition) { <action_paerformed_after_codition_met>}
+
+9 == "9" : 
